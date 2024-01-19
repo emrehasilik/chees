@@ -1,0 +1,10 @@
+C:\Users\emreh\source\repos\Satranç1\Satranç1\bin\Debug\Satranç1.exe.config
+C:\Users\emreh\source\repos\Satranç1\Satranç1\bin\Debug\Satranç1.exe
+C:\Users\emreh\source\repos\Satranç1\Satranç1\bin\Debug\Satranç1.pdb
+C:\Users\emreh\source\repos\Satranç1\Satranç1\obj\Debug\Satranç1.csproj.AssemblyReference.cache
+C:\Users\emreh\source\repos\Satranç1\Satranç1\obj\Debug\Satranç1.Form1.resources
+C:\Users\emreh\source\repos\Satranç1\Satranç1\obj\Debug\Satranç1.Properties.Resources.resources
+C:\Users\emreh\source\repos\Satranç1\Satranç1\obj\Debug\Satranç1.csproj.GenerateResource.cache
+C:\Users\emreh\source\repos\Satranç1\Satranç1\obj\Debug\Satranç1.csproj.CoreCompileInputs.cache
+C:\Users\emreh\source\repos\Satranç1\Satranç1\obj\Debug\Satranç1.exe
+C:\Users\emreh\source\repos\Satranç1\Satranç1\obj\Debug\Satranç1.pdb
